@@ -1,0 +1,2 @@
+x-coordinate of the center | y-coordinate of the center | radius of the circle
+367 220 79.5
